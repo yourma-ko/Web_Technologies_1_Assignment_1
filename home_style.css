@@ -1,0 +1,24 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+img.fit-picture {
+    float: left;
+    margin-right: 20px;
+    max-width: 5%;
+    height: auto;
+}
+
+p {
+    color: #666;
+    margin-bottom: 10px;
+}
